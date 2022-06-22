@@ -15,3 +15,4 @@ def how_many(adict):
 
 #Test = how_many({'B': [15], 'u': [10, 15, 5, 2, 6]})
 #print(Test)
+
